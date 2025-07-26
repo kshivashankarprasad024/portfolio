@@ -22,8 +22,8 @@ A modern, interactive terminal-style portfolio website built with Next.js, TypeS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/terminal-portfolio.git
-cd terminal-portfolio
+git clone https://github.com/kshivashankarprasad024/portfolio.git
+cd portfolio
 ```
 
 2. Install dependencies:
